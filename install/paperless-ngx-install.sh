@@ -22,7 +22,7 @@ $STD apt install -y \
   optipng \
   libpq-dev \
   libmagic-dev \
-  mime-support \
+  media-types \
   libzbar0 \
   poppler-utils \
   default-libmysqlclient-dev \
