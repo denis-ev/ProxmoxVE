@@ -45,7 +45,7 @@ $STD apt install -y \
   unpaper \
   icc-profiles-free \
   qpdf \
-  liblept5 \
+  libleptonica6 \
   libxml2 \
   pngquant \
   zlib1g \
