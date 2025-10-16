@@ -46,6 +46,7 @@ $STD apt install -y \
   icc-profiles-free \
   qpdf \
   libleptonica6 \
+  autoconf-archive \
   libxml2 \
   pngquant \
   zlib1g \
